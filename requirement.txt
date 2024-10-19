@@ -1,0 +1,4 @@
+去魔塔社区和hugging face下载sensevoice 模型到文件夹 
+用vs打开就可以了
+记得pip install一下需要的pythonlibrary
+
